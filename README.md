@@ -1,3 +1,3 @@
 # msenthi7.github.io
-## DATA602
+## MSML602
 Matheshwara Annamalai Senthilkumar
